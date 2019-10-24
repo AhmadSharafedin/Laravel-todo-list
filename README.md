@@ -1,1 +1,1 @@
-# Laravel-todo-list
+Simple CRUD (Create, Read, Update, Delete)
